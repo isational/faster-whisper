@@ -1,3 +1,6 @@
+https://twitter.com/huangyun_122/status/1681622520875581441?t=DEaSkYlDBmqBD_zHv0wg6w&s=19
+
+
 [![CI](https://github.com/guillaumekln/faster-whisper/workflows/CI/badge.svg)](https://github.com/guillaumekln/faster-whisper/actions?query=workflow%3ACI) [![PyPI version](https://badge.fury.io/py/faster-whisper.svg)](https://badge.fury.io/py/faster-whisper)
 
 # Faster Whisper transcription with CTranslate2
